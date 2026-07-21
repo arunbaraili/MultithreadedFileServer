@@ -18,12 +18,14 @@ On the client side, users can upload, download, list, and delete files stored on
 - 🚪 **Graceful exit** — clients can end their session cleanly via a quit option
 
 ## 🗂️ Project Structure
+```
 MultithreadedFileServer/
-- server.c      
-- client.c     
-- csapp.h       
-- Makefile      
-- README.md
+├── server.c      # Server implementation
+├── client.c      # Client implementation
+├── csapp.h       # CS:APP library
+├── Makefile      # Builds both server and client
+└── README.md
+```
 
 ## 🛠️ Built With
 
