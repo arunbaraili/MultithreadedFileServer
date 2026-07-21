@@ -19,11 +19,11 @@ On the client side, users can upload, download, list, and delete files stored on
 
 ## 🗂️ Project Structure
 MultithreadedFileServer/
-├── server.c # Server implementation
-├── client.c # Client implementation
-├── csapp.h # CS:APP library
-├── Makefile # Builds both server and client
-└── README.md
+- server.c      
+- client.c     
+- csapp.h       
+- Makefile      
+- README.md
 
 ## 🛠️ Built With
 
